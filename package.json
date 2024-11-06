@@ -1,0 +1,28 @@
+{
+  "name": "my-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "flowbite": "^2.5.2",
+    "gsap": "^3.12.5",
+    "lottie-web": "^5.12.2",
+    "three": "^0.170.0",
+    "treejs": "^0.6.2",
+    "vue": "^3.5.12",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.10"
+  }
+}
